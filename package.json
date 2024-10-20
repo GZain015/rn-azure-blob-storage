@@ -1,6 +1,6 @@
 {
   "name": "rn-azure-blob-storage",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "upgraded react-native-azure-blob-storage",
   "main": "index.js",
   "scripts": {
@@ -27,13 +27,13 @@
   "homepage": "https://github.com/GZain015/rn-azure-blob-storage#readme",
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-native": ">=0.59.0-rc.0 <1.0.x"
+    "react-native": ">=0.70.0 <1.0.0"
   },
   "devDependencies": {
     "react": "^18.2.0",
-    "react-native": "^0.62.3"
+    "react-native": "^0.70.0"
   },
   "dependencies": {
-    "rn-azure-blob-storage": "^1.0.0"
+    "rn-azure-blob-storage": "^1.0.1"
   }
 }
