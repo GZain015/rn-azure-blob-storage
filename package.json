@@ -1,0 +1,39 @@
+{
+  "name": "rn-azure-blob-storage",
+  "version": "1.0.0",
+  "description": "upgraded react-native-azure-blob-storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GZain015/rn-azure-blob-storage.git",
+    "baseUrl": "https://github.com/GZain015/rn-azure-blob-storage.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "The CUiCOders",
+    "email": "thecui.fa20coders@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/GZain015/rn-azure-blob-storage/issues"
+  },
+  "homepage": "https://github.com/GZain015/rn-azure-blob-storage#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.62.3"
+  },
+  "dependencies": {
+    "rn-azure-blob-storage": "^1.0.0"
+  }
+}
